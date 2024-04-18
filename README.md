@@ -4,18 +4,7 @@
 <img align="right" alt"coding width="900" src="https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniooleiro&label=Profile%20views&color=0e75b6&style=flat" alt="antoniooleiro" /> </p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 - 🔭 I’m currently working on [orion project for pap](http://orionentertainment.xyz/)
 
