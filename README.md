@@ -1,10 +1,9 @@
 [![MasterHead](https://https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)](https://antoniooleiro.io)
-<h3 align="center">A passionate frontend developer from Portugal</h3>
 <img align="right" alt"coding width="900" src="https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniooleiro&label=Profile%20views&color=0e75b6&style=flat" alt="antoniooleiro" /> </p>
 <h1 align="center">Hi 👋, I'm António</h1>
-
+<h3 align="center">A passionate frontend developer from Portugal</h3>
 
 - 🔭 I’m currently working on [orion project for pap](http://orionentertainment.xyz/)
 
