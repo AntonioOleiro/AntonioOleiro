@@ -6,7 +6,7 @@
 <h3 align="center">A passionate frontend developer from Portugal</h3>
 <img align="right" alt"coding width="900" src="https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif">
 <br>
-- 🔭 I’m currently working on [orion project for pap](http://orionentertainment.xyz/)
+- 🔭 I’m currently working on a degree at https://www.ulusofona.pt
 
 - 👯 I’m looking to graduate as **a software engineer**
 
