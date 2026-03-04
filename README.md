@@ -12,7 +12,7 @@
 ---
 
 - 🖥️ I'm currently working on a **CTesP** at [ipluso.pt](https://www.ipluso.pt/pt/)
-- 🎓 I'm looking to graduate as **Cyber Security**
+- 🎓 I'm looking to graduate as **Cybersecurity**
 
 ---
 
