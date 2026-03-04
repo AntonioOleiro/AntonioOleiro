@@ -1,18 +1,17 @@
 [![MasterHead](https://https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)](https://antoniooleiro.io)
-<h1 align="center">Hi 👋, I'm António</h1>
-<h3 align="center">A passionate IT Student from Portugal 🇵🇹</h3>
+<h3 align="center">A passionate IT Student from Portugal</h3>
 
 ---
 
 <p align="center">
-  🎯 Young IT professional with a certification in Computer Technology, currently diving deep into <strong>Cybersecurity</strong>.<br/>
+  Young IT professional with a certification in Computer Technology, currently diving deep into <strong>Cybersecurity</strong>.<br/>
   My goal is to build a solid career in the Information Technology field, bringing strong technical foundations, a problem-solving mindset, and a genuine passion for learning and making an impact.
 </p>
 
 ---
 
 - 🖥️ I'm currently working on a **CTesP** at [ipluso.pt](https://www.ipluso.pt/pt/)
-- 🎓 I'm looking to graduate as **Cybersecurity**
+- 🎓 I'm looking to graduate as **Cyber Security**
 
 ---
 
@@ -36,6 +35,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AntonioOleiro&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
-
 
 
