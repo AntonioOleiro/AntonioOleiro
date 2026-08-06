@@ -10,8 +10,8 @@
 
 ---
 
-- 🖥️ I'm currently working on a **CTesP** at [ipluso.pt](https://www.ipluso.pt/pt/)
-- 🎓 I'm looking to graduate as **Cybersecurity**
+- 🖥️ I'm currently working on a bachelor degree at [ipluso.pt](https://www.ipluso.pt/pt/)
+- 🎓 I'm looking to graduate as computer engineer already specialized in cybersecurity 
 
 ---
 
